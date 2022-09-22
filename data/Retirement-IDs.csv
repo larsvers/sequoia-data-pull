@@ -1,0 +1,34 @@
+﻿chart_index,question,section,name,id
+1a,Does your company sponsor a 401(k) plan?,Plan Types,401(k),9016470
+1b,Does your company sponsor a 403(b) or 457 plan?,Plan Types,403(b) or 457,9016613
+1c,Does your company sponsor a Defined Benefits plan?,Plan Types,Defined Benefits,9016651
+1d,Does your company sponsor a Non-Qualified Deferred Compensation plan?,Plan Types,Non-Qualified Deferred Compensation,9016724
+2a,Does your plan offer Roth (post-tax)?,Plan Options,Roth,10561444
+2b,Does your plan offer Additional After-tax (non-Roth)?,Plan Options,Non-Roth,10502642
+2c,Do you allow employees to defer on bonus compensation?,Plan Options,Bonus Deferral,9016873
+2d,Does your plan have ESG funds in its current lineup?,Plan Options,ESG Funds,7901241
+2e,What types of ESG funds are offered?,Plan Options,ESG Fund Types,10561736
+3a,What is your current retirement plan participation rate?,Participation & Eligibility,Participation Rate,10561736
+3b,What is your plan’s service eligibility requirement?,Participation & Eligibility,Eligibility,9096094
+3c,Do your part-time employees have different eligibility requirements?,Participation & Eligibility,Part-Time Eligibility,9096143
+4a,Does your retirement plan offer automatic enrollment?,Auto Enrollment,Plam Offering,9096216
+4b,What is the default election rate?,Auto Enrollment,Election Rates,10111483
+4c,"Does the default election automatically increase annually?
+",Auto Enrollment,Auto Increases,10552029
+4d,"Where does the annual automatic increase stop?
+",Auto Enrollment,Auto Increase Cap,9096708
+5a,Do you offer an employer match contribution?,Employer Contributions,Contribution Matching,9225671
+5b,Do you match on bonus compensation?,Employer Contributions,Bonus Matching,9226121
+5c,Do you have different eligibility requirements for employer contributions than plan eligibility?,Employer Contributions,Plan vs. Match Eligibility,9226168
+5e,What is your match effective rate?,Employer Contributions,Effective Rate,9226291
+5g,At what employee population size / revenue threshold / business stage did you initiate a match program?,Employer Contributions,Match Program Timing,9226354
+6a,How much does your company's match vest each year?,Employer Contributions,-,9226435
+7a,Do you offer an employer-sponsored profit-sharing program?,Profit Sharing,Profit-Sharing Program,9226473
+7c,What is your profit-sharing formula allocation method?,Profit Sharing,Percentage vs. Dollar Amount,9226609
+8a,Does your plan work with an advisor?,Administration & Governance,Plan Advisor,10552373
+8b,Do you have an active retirement committee?,Administration & Governance,Retirement Committee,10552431
+8c,What areas of the business are represented in the committee?,Administration & Governance,Committee Representation,9239563
+8d,How are plan expenses paid?,Administration & Governance,Plan Expenses,10552543
+9a,Demographics - Headcount,Methodology,Methodology,10572403
+9b,Demographics - HQ,Methodology,Methodology,10572450
+9c,Demographics - Industry,Methodology,Methodology,10646115
